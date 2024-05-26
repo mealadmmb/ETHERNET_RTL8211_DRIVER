@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Jan 10 03:49:44 2023
+# Process ID: 17920
+# Current directory: E:/SDR_Pluto/PlutoSDR_HDL/library/cn0363/cn0363_dma_sequencer
+# Command line: vivado.exe -mode batch -source cn0363_dma_sequencer_ip.tcl
+# Log file: E:/SDR_Pluto/PlutoSDR_HDL/library/cn0363/cn0363_dma_sequencer/vivado.log
+# Journal file: E:/SDR_Pluto/PlutoSDR_HDL/library/cn0363/cn0363_dma_sequencer\vivado.jou
+#-----------------------------------------------------------
+source cn0363_dma_sequencer_ip.tcl
